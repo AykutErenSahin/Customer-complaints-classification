@@ -11,7 +11,7 @@ A streamlined solution for analyzing customer feedback with:
 
 Enables faster and more accurate processing of customer complaints in Turkish.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Core Technologies:**
 - Python 3
@@ -26,7 +26,7 @@ Enables faster and more accurate processing of customer complaints in Turkish.
 **Visualization:**
 - Matplotlib
 
-## ✨ Key Features
+## Features
 
 - High-accuracy Turkish text processing via Zemberek integration
 - Linear Support Vector Classifier (SVC) for text classification
